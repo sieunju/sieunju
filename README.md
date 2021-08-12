@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=300&section=header&text=Developer%20Sieun%20Ju.&fontSize=90)
 
-<center>HIHIHI</center>
+<h3 align="center">Tech Stack</h3>
 
 ![mostLange](https://github-readme-stats.vercel.app/api/top-langs/?username=sieunju&langs_count=5)
 
