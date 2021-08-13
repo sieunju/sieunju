@@ -15,14 +15,14 @@
 
 <h3 align="center">🚀  Tech Stack 🚀</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Android%20Studio-white?style=flat&logo=AndroidStudio"/> 
+  <img src="https://img.shields.io/badge/-Android%20Studio-d7fce8?style=flat&logo=AndroidStudio"/> 
   <img src="https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat&logo=VisualStudioCode"/> 
   <img src="https://img.shields.io/badge/-Jenkins-white?style=flat&logo=Jenkins"/> 
-  <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java"/> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java"/> 
   <img src="https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=Kotlin"/><br>
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=flat&logo=JavaScript"/> 
-  <img src="https://img.shields.io/badge/-Android-white?style=flat&logo=Android"/> 
-  <img src="https://img.shields.io/badge/-ReactiveX-hotpink?style=flat&logo=ReactiveX"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript"/> 
+  <img src="https://img.shields.io/badge/-Android-d7fce8?style=flat&logo=Android"/> 
+  <img src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat&logo=ReactiveX"/> 
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js"/> 
   <img src="http://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker"/>
 </p>
