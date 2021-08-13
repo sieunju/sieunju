@@ -4,8 +4,8 @@
 <h3 align="center">🥭  Me 🥭</h3>
 <p align="center">
 <a href="https://sieunju.github.io"><img src="https://img.shields.io/badge/-AbountMe-111111?style=flat&logo=GitHub"/></a> 
-<a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-lightgrey?style=flat&logo=Gitlab"/></a> 
-<a href="https://jsieun73.tistory.com"><img src="https://img.shields.io/badge/Blog-orange"/></a>
+<a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-FA7343?style=flat&logo=Gitlab"/></a> 
+<a href="https://jsieun73.tistory.com"><img src="https://img.shields.io/badge/Blog-EE3322"/></a>
 </p>
 
 <h3 align="center">💕 Most Language 💕</h3>
@@ -19,12 +19,12 @@
   <img src="https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat&logo=VisualStudioCode"/> 
   <img src="https://img.shields.io/badge/-Jenkins-white?style=flat&logo=Jenkins"/> 
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java"/> 
-  <img src="https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=Kotlin"/><br>
+  <img src="https://img.shields.io/badge/-Kotlin-F54E1A?style=flat&logo=Kotlin"/><br>
   <img src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript"/> 
   <img src="https://img.shields.io/badge/-Android-d7fce8?style=flat&logo=Android"/> 
   <img src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat&logo=ReactiveX"/> 
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js"/> 
-  <img src="http://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker"/>
+  <img src="https://img.shields.io/badge/-Node.js-d1f5ce?style=flat&logo=Node.js"/> 
+  <img src="http://img.shields.io/badge/-Docker-CFE0F4?style=flat&logo=Docker"/>
 </p>
 
 <h3 align="center">🔥 Developer 🔥</h3>
