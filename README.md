@@ -1,5 +1,5 @@
 <center>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=300&section=header&text=Dev%20HongMin.&fontSize=90"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=300&section=header&text=hongmin Ju&fontSize=90"/>
 </center>
 <h3 align="center">🥭  Me 🥭</h3>
 <p align="center">
