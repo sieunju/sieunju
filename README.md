@@ -1,7 +1,6 @@
 <center>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=300&section=header&text=Developer%20Sieun%20Ju.&fontSize=90"/>
 </center>
-
 <h3 align="center">🥭  Me 🥭</h3>
 <p align="center">
 <a href="https://sieunju.github.io"><img src="https://img.shields.io/badge/-AbountMe-111111?style=flat&logo=GitHub"/></a> 
