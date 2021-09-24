@@ -8,7 +8,7 @@
 <a href="https://jsieun73.tistory.com"><img src="https://img.shields.io/badge/Blog-EE3322"/></a>
 </p>
 
-<h3 align="center">💕 Most Language 💕</h3>
+<h3 align="center">💕 Most Used Language 💕</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieunju&layout=compact&langs_count=5" />
 </p>
