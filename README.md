@@ -1,20 +1,7 @@
-<center>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=300&section=header&text=hongmin Ju&fontSize=90"/>
-</center>
-<h3 align="center">🥭  Me 🥭</h3>
-<p align="center">
+
 <a href="https://sieunju.github.io"><img src="https://img.shields.io/badge/-AbountMe-111111?style=flat&logo=GitHub"/></a> 
 <a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-FA7343?style=flat&logo=Gitlab"/></a> 
-<a href="https://jsieun73.tistory.com"><img src="https://img.shields.io/badge/Blog-EE3322"/></a>
-</p>
 
-<h3 align="center">💕 Most Used Language 💕</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieunju&layout=compact&langs_count=5" />
-</p>
-
-<h3 align="center">🚀  Tech Stack 🚀</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/-Android%20Studio-d7fce8?style=flat&logo=AndroidStudio"/> 
   <img src="https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat&logo=VisualStudioCode"/> 
   <img src="https://img.shields.io/badge/-Jenkins-white?style=flat&logo=Jenkins"/> 
@@ -25,31 +12,38 @@
   <img src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat&logo=ReactiveX"/> 
   <img src="https://img.shields.io/badge/-Node.js-d1f5ce?style=flat&logo=Node.js"/> 
   <img src="http://img.shields.io/badge/-Docker-CFE0F4?style=flat&logo=Docker"/>
-</p>
 
-<h3 align="center">🔥 Developer 🔥</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sieunju&show_icons=true&count_private=true&hide=stars,contribs" />
-</p>
 
-<h3 align="center">💥 Open Library 💥</h3>
-<p align="center">
-  <a href="https://github.com/sieunju/widget"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=widget"></a>
-  <a href="https://github.com/sieunju/YoutubePlayerView"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=YoutubePlayerView"></a>
-  <a href="https://github.com/sieunju/SimplePermissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=SimplePermissions"></a>
+ <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
+          <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://spurious-sleet-316.notion.site/who-am-I-dffab2bd47ef4b5fb57ed8d8bdaf118c" rel="nofollow"><img src="https://camo.githubusercontent.com/1b07a9ef4b23d42e92ee540f4f8615e20aafe4fb57d7ddbb5622c539d70597a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d4e6f74696f6e2d6f72616e67653f7374796c653d666c61742d737175617265" alt="Resume" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c7394a8d22868ccbec6e5ad388bc776c663740dbf6884c8729af1f0bf817f7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661"><img src="https://camo.githubusercontent.com/0c7394a8d22868ccbec6e5ad388bc776c663740dbf6884c8729af1f0bf817f7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661" data-canonical-src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&amp;logo=Java" style="max-width: 100%;"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1854be13b1b643c7331b810eb9ebf7360111ec54609e98c80403ffa99ccd5652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1854be13b1b643c7331b810eb9ebf7360111ec54609e98c80403ffa99ccd5652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%;"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14bc04114e03c7359b651d7bb82f05cece617bd85476a70242367c646bde217a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7973716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/14bc04114e03c7359b651d7bb82f05cece617bd85476a70242367c646bde217a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&amp;logo=Mysql&amp;logoColor=white" style="max-width: 100%;"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f12073d90fdedbf5a585fe6a37b7ad1cfc125123b0ee80081d1e741109e628c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/f12073d90fdedbf5a585fe6a37b7ad1cfc125123b0ee80081d1e741109e628c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=black" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/91ae7af8be21f5f1051a609cb588f3299feb18ac4f1c5878a9a21b2ead7b3131/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d4a5175657279266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/91ae7af8be21f5f1051a609cb588f3299feb18ac4f1c5878a9a21b2ead7b3131/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d4a5175657279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&amp;logo=JQuery&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsieunju%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-**sieunju/sieunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f98f27163841fa6657110581e12389527e4d14f82b431e6ee839e7098379950/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6973656d616e672673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964653d73746172732c636f6e7472696273"></a>
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sieunju&show_icons=true&count_private=true&hide=stars,contribs" />
 
-Here are some ideas to get you started:
-![info](https://github-readme-stats.vercel.app/api?username=sieunju&show_icons=true)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h3 dir="auto"><a id="user-content--who-am-i" class="anchor" aria-hidden="true" href="#-who-am-i"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-️-breif" href="#️-breif"></a><g-emoji class="g-emoji" alias="woman_mechanic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f527.png">👨🏽‍💻</g-emoji> Who Am I</h3>
+<ul dir="auto">
+<li>Working as a <strong>Android Developer</strong></li>
+<li>Mainly using <strong>Kotlin</strong> and <strong>Reactive X</strong></li>
+</ul>
+<h3 dir="auto"><a id="user-content--blog" class="anchor" aria-hidden="true" href="#-blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-️-breif" href="#️-breif"></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Blog</h3>
+<ul dir="auto">
+<li><a href="https://jsieun73.tistory.com" rel="nofollow">임창정을 좋아하는 ㅅrㄴrOI</a></li>
+</ul>
+<h3 dir="auto"><a id="user-content--blog" class="anchor" aria-hidden="true" href="#-blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-️-breif" href="#️-breif"></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">🤖</g-emoji>Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieunju&layout=compact&langs_count=5" />
+<h3 dir="auto"><a id="user-content--blog" class="anchor" aria-hidden="true" href="#-blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-️-breif" href="#️-breif"></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📚</g-emoji>Open Library</h3>
+  <a href="https://github.com/sieunju/widget"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=widget" style="max-width: 70%;"></a>
+<br>
+  <a href="https://github.com/sieunju/YoutubePlayerView"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=YoutubePlayerView" style="max-width: 70%;"></a>
+<br>
+  <a href="https://github.com/sieunju/SimplePermissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=SimplePermissions" style="max-width: 70%;"></a>
+<br>
