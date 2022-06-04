@@ -49,5 +49,5 @@ something
   ### 퀵딥링크
   --- 
   - 쉽게 스캔하고 딥링크 테스트를 해보세요!   
-  [![쿽딥링크](https://sieunju.github.io/assets/img/portfolio/google-play-logo.png)](https://play.google.com/store/apps/details?id=com.hmju.deeplink/ "링크")
+  [![쿽딥링크](https://sieunju.github.io/assets/img/portfolio/google-play-logo.png)](https://play.google.com/store/apps/details?id=com.hmju.deeplink "링크")
  
