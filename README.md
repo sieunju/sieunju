@@ -41,3 +41,13 @@ something
 <a href="https://github.com/sieunju/widget"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=widget"></a>
  
+ 
+ <h3 dir="auto"><a id="user-content--playstore">
+<g-emoji class="g-emoji" alias="playstore"
+  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">☀️</g-emoji>Play Store</h3>
+  
+  ### 퀵딥링크
+  --- 
+  - 쉽게 스캔하고 딥링크 테스트를 해보세요!   
+  [![쿽딥링크](https://sieunju.github.io/assets/img/portfolio/google-play-logo.png)](https://play.google.com/store/apps/details?id=com.hmju.deeplink/ "링크")
+ 
