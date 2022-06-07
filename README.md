@@ -25,6 +25,10 @@
 <ul dir="auto">
 <li><a href="https://jsieun73.tistory.com" rel="nofollow">임창정을 좋아하는 ㅅrㄴrOI</a></li>
 </ul>
+ 
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=sieunju&show_icons=true&count_private=true&hide=stars,contribs" />
+ 
 <h3 dir="auto"><a id="user-content--blog" class="anchor" aria-hidden="true" href="#-blog"><svg
     class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
     <path fill-rule="evenodd"
