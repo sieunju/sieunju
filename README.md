@@ -1,7 +1,7 @@
  <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
             <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">
 <p dir="auto"><a href="https://sieunju.github.io/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-Github.io-green?style=flat-square" alt="Portfolio" style="max-width: 100%;"></a>
-<a href="https://spurious-sleet-316.notion.site/who-am-I-dffab2bd47ef4b5fb57ed8d8bdaf118c" rel="nofollow"><img src="https://img.shields.io/badge/Resume-Notion-blue?style=flat-square" alt="Resume" style="max-width: 100%;"></a>
+<a href="https://bit.ly/3LWreEe" rel="nofollow"><img src="https://img.shields.io/badge/Resume-Notion-blue?style=flat-square" alt="Resume" style="max-width: 100%;"></a>
 <a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-FA7343?style=flat-square&logo=Gitlab"/></a> 
 </p>
 <p dir="auto">
