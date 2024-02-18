@@ -37,7 +37,7 @@
 something
 </h3>
 <a href="https://github.com/sieunju/TIL"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=TIL"></a>
+  src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=til"></a>
 <br><br>
 <a href="https://github.com/sieunju/widget"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=sieunju&repo=widget"></a>
