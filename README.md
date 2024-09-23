@@ -2,7 +2,6 @@
             <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">
 <p dir="auto"><a href="https://sieunju.github.io/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-Github.io-green?style=flat-square" alt="Portfolio" style="max-width: 100%;"></a>
 <a href="https://bit.ly/3LWreEe" rel="nofollow"><img src="https://img.shields.io/badge/Resume-Notion-blue?style=flat-square" alt="Resume" style="max-width: 100%;"></a>
-<a href="https://gitlab.qtzz.synology.me/hmju"><img src="https://img.shields.io/badge/-GitLab-FA7343?style=flat-square&logo=Gitlab"/></a> 
 </p>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/261b32ed3d183fd596ce5558eeaaf52d53d783c1f3ea06ad8e5f68e9ab027b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d4237354541343f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d463638393146"><img src="https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&amp;logo=kotlin&amp;logoColor=F6891F" alt="Kotlin" style="max-width: 100%;"></a>
