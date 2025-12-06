@@ -5,7 +5,7 @@
 ### Android Developer | Kotlin Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sieunju.github.io-00C7B7?style=flat-square&logo=github)](https://sieunju.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-Notion-000000?style=flat-square&logo=notion)](https://bit.ly/3LWreEe)
+[![Resume](https://img.shields.io/badge/Resume-Notion-000000?style=flat-square&logo=notion)](https://bit.ly/4poyLPe)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-FF5544?style=flat-square&logo=blogger)](https://jsieun73.tistory.com)
 
 </div>
@@ -63,6 +63,6 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=github&logoColor=white)](https://sieunju.github.io/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5544?style=flat-square&logo=blogger&logoColor=white)](https://jsieun73.tistory.com)
-[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://bit.ly/3LWreEe)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://bit.ly/4poyLPe)
 
 </div>
